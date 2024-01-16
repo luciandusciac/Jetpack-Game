@@ -1,0 +1,3820 @@
+fileFormatVersion: 2
+guid: ea7b359748c50b94699085f8ec497401
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1483944529546056644
+    second: JetPack_Tiles_0
+  - first:
+      213: -1545448454614015495
+    second: JetPack_Tiles_1
+  - first:
+      213: 6260525777490077258
+    second: JetPack_Tiles_2
+  - first:
+      213: -6397055890810471254
+    second: JetPack_Tiles_3
+  - first:
+      213: -7153053563157287812
+    second: JetPack_Tiles_4
+  - first:
+      213: -5440087832162772096
+    second: JetPack_Tiles_5
+  - first:
+      213: 6132914878912771452
+    second: JetPack_Tiles_6
+  - first:
+      213: -8535627164957857839
+    second: JetPack_Tiles_7
+  - first:
+      213: 3182907903359292311
+    second: JetPack_Tiles_8
+  - first:
+      213: 4015255614375487130
+    second: JetPack_Tiles_9
+  - first:
+      213: -4861597688722510123
+    second: JetPack_Tiles_10
+  - first:
+      213: -1549262026684318173
+    second: JetPack_Tiles_11
+  - first:
+      213: 6263909220787336809
+    second: JetPack_Tiles_12
+  - first:
+      213: -8215677357075400394
+    second: JetPack_Tiles_13
+  - first:
+      213: -8981873982872525814
+    second: JetPack_Tiles_14
+  - first:
+      213: 5177349807759660257
+    second: JetPack_Tiles_15
+  - first:
+      213: -503678813358573444
+    second: JetPack_Tiles_16
+  - first:
+      213: -8525578735803605347
+    second: JetPack_Tiles_17
+  - first:
+      213: -7758706378847018623
+    second: JetPack_Tiles_18
+  - first:
+      213: -253510199860827387
+    second: JetPack_Tiles_19
+  - first:
+      213: -6571589775410807268
+    second: JetPack_Tiles_20
+  - first:
+      213: -5235456745121636675
+    second: JetPack_Tiles_21
+  - first:
+      213: 8626694984280087531
+    second: JetPack_Tiles_22
+  - first:
+      213: 3947394242296163351
+    second: JetPack_Tiles_23
+  - first:
+      213: 53794738142540502
+    second: JetPack_Tiles_24
+  - first:
+      213: -8261669054222829749
+    second: JetPack_Tiles_25
+  - first:
+      213: -709118667224259234
+    second: JetPack_Tiles_26
+  - first:
+      213: -3404149941703424824
+    second: JetPack_Tiles_27
+  - first:
+      213: 203204471911095880
+    second: JetPack_Tiles_28
+  - first:
+      213: -2253901812804329039
+    second: JetPack_Tiles_29
+  - first:
+      213: -6236040753941231439
+    second: JetPack_Tiles_30
+  - first:
+      213: -8834556202188531247
+    second: JetPack_Tiles_31
+  - first:
+      213: 6228827201980656268
+    second: JetPack_Tiles_32
+  - first:
+      213: -4261291736885665734
+    second: JetPack_Tiles_33
+  - first:
+      213: -3786623236641488130
+    second: JetPack_Tiles_34
+  - first:
+      213: -3858383419132464906
+    second: JetPack_Tiles_35
+  - first:
+      213: -7461790355613125300
+    second: JetPack_Tiles_36
+  - first:
+      213: -3760195996198905391
+    second: JetPack_Tiles_37
+  - first:
+      213: -5293315523693187873
+    second: JetPack_Tiles_38
+  - first:
+      213: -145650417434000261
+    second: JetPack_Tiles_39
+  - first:
+      213: -6612108679097939602
+    second: JetPack_Tiles_40
+  - first:
+      213: 5773600746205043775
+    second: JetPack_Tiles_41
+  - first:
+      213: -8228240884690941475
+    second: JetPack_Tiles_42
+  - first:
+      213: -7698769118138460899
+    second: JetPack_Tiles_43
+  - first:
+      213: 2400180882625295230
+    second: JetPack_Tiles_44
+  - first:
+      213: -283410114313338408
+    second: JetPack_Tiles_45
+  - first:
+      213: 4299592485517066575
+    second: JetPack_Tiles_46
+  - first:
+      213: -7103140071412080626
+    second: JetPack_Tiles_47
+  - first:
+      213: -646507188198101898
+    second: JetPack_Tiles_48
+  - first:
+      213: -8420868524985089341
+    second: JetPack_Tiles_49
+  - first:
+      213: 4383034235994740650
+    second: JetPack_Tiles_50
+  - first:
+      213: -4407575380048577672
+    second: JetPack_Tiles_51
+  - first:
+      213: 3665165941173209586
+    second: JetPack_Tiles_52
+  - first:
+      213: -3557602620839043706
+    second: JetPack_Tiles_53
+  - first:
+      213: 8970258187704315561
+    second: JetPack_Tiles_54
+  - first:
+      213: -8032853006719855746
+    second: JetPack_Tiles_55
+  - first:
+      213: 2932994899299290160
+    second: JetPack_Tiles_56
+  - first:
+      213: -4110925160016106787
+    second: JetPack_Tiles_57
+  - first:
+      213: 740759823685277543
+    second: JetPack_Tiles_58
+  - first:
+      213: -3494282996901109687
+    second: JetPack_Tiles_59
+  - first:
+      213: -454656031147272345
+    second: JetPack_Tiles_60
+  - first:
+      213: 7739123295511926851
+    second: JetPack_Tiles_61
+  - first:
+      213: -7802643687314017275
+    second: JetPack_Tiles_62
+  - first:
+      213: -6247402460804155855
+    second: JetPack_Tiles_63
+  - first:
+      213: 947255860781811864
+    second: JetPack_Tiles_64
+  - first:
+      213: -910046866109696161
+    second: JetPack_Tiles_65
+  - first:
+      213: -799539830387413912
+    second: JetPack_Tiles_66
+  - first:
+      213: 3590672624515802419
+    second: JetPack_Tiles_67
+  - first:
+      213: -6793486750154763764
+    second: JetPack_Tiles_68
+  - first:
+      213: -3597238970779044596
+    second: JetPack_Tiles_69
+  - first:
+      213: -8866806049049126288
+    second: JetPack_Tiles_70
+  - first:
+      213: 3610703583314198518
+    second: JetPack_Tiles_71
+  - first:
+      213: -1717860593336030867
+    second: JetPack_Tiles_72
+  - first:
+      213: -3476025394892790636
+    second: JetPack_Tiles_73
+  - first:
+      213: 6744321301765132118
+    second: JetPack_Tiles_74
+  - first:
+      213: -704081545060441640
+    second: JetPack_Tiles_75
+  - first:
+      213: -4631541785354024960
+    second: JetPack_Tiles_76
+  - first:
+      213: -7275389309458680299
+    second: JetPack_Tiles_77
+  - first:
+      213: -2945533022650397105
+    second: JetPack_Tiles_78
+  - first:
+      213: -7100129573653187203
+    second: JetPack_Tiles_79
+  - first:
+      213: -7732120041294167533
+    second: JetPack_Tiles_80
+  - first:
+      213: 7822652138359069493
+    second: JetPack_Tiles_81
+  - first:
+      213: 5328429197841927954
+    second: JetPack_Tiles_82
+  - first:
+      213: -3593801894127332739
+    second: JetPack_Tiles_83
+  - first:
+      213: -387266740327796723
+    second: JetPack_Tiles_84
+  - first:
+      213: 4130111494627382544
+    second: JetPack_Tiles_85
+  - first:
+      213: 5139329787814142886
+    second: JetPack_Tiles_86
+  - first:
+      213: 7695493706031987819
+    second: JetPack_Tiles_87
+  - first:
+      213: 8951487850716394458
+    second: JetPack_Tiles_88
+  - first:
+      213: 1356003029448552570
+    second: JetPack_Tiles_89
+  - first:
+      213: -5835861982489728352
+    second: JetPack_Tiles_90
+  - first:
+      213: 5552179836175471224
+    second: JetPack_Tiles_91
+  - first:
+      213: 873156820215767323
+    second: JetPack_Tiles_92
+  - first:
+      213: -5896125865993309636
+    second: JetPack_Tiles_93
+  - first:
+      213: -3538266601018826032
+    second: JetPack_Tiles_94
+  - first:
+      213: -8346106638272680232
+    second: JetPack_Tiles_95
+  - first:
+      213: -1192097163620102275
+    second: JetPack_Tiles_96
+  - first:
+      213: 3955466411472254051
+    second: JetPack_Tiles_97
+  - first:
+      213: -6349161237984289118
+    second: JetPack_Tiles_98
+  - first:
+      213: -7897158855962761827
+    second: JetPack_Tiles_99
+  - first:
+      213: -3526359230037349559
+    second: JetPack_Tiles_100
+  - first:
+      213: -4071532448557028608
+    second: JetPack_Tiles_101
+  - first:
+      213: -7729938287456581607
+    second: JetPack_Tiles_102
+  - first:
+      213: 321821040781768026
+    second: JetPack_Tiles_103
+  - first:
+      213: -9039398262407523196
+    second: JetPack_Tiles_104
+  - first:
+      213: -2262370303395298580
+    second: JetPack_Tiles_105
+  - first:
+      213: 254478930326614184
+    second: JetPack_Tiles_106
+  - first:
+      213: 5195487902795931490
+    second: JetPack_Tiles_107
+  - first:
+      213: 7373595476091187408
+    second: JetPack_Tiles_108
+  - first:
+      213: -784385600849084254
+    second: JetPack_Tiles_109
+  - first:
+      213: -4689034606613142884
+    second: JetPack_Tiles_110
+  - first:
+      213: 7255169022472542538
+    second: JetPack_Tiles_111
+  - first:
+      213: -3815257111611281485
+    second: JetPack_Tiles_112
+  - first:
+      213: -1130233400514605240
+    second: JetPack_Tiles_113
+  - first:
+      213: 4784197204493594751
+    second: JetPack_Tiles_114
+  - first:
+      213: 1016806946256126357
+    second: JetPack_Tiles_115
+  - first:
+      213: -8319353168743886428
+    second: JetPack_Tiles_116
+  - first:
+      213: -6940725875044268247
+    second: JetPack_Tiles_117
+  - first:
+      213: 2907091093086191851
+    second: JetPack_Tiles_118
+  - first:
+      213: -3675750998932275152
+    second: JetPack_Tiles_119
+  - first:
+      213: 1443755435178519513
+    second: JetPack_Tiles_120
+  - first:
+      213: 8632713659642793033
+    second: JetPack_Tiles_121
+  - first:
+      213: 7526265759165727518
+    second: JetPack_Tiles_122
+  - first:
+      213: -2144328718243890205
+    second: JetPack_Tiles_123
+  - first:
+      213: 8315287031402858723
+    second: JetPack_Tiles_124
+  - first:
+      213: 556608570781803091
+    second: JetPack_Tiles_125
+  - first:
+      213: 8606560169873257297
+    second: JetPack_Tiles_126
+  - first:
+      213: -5528883500192157998
+    second: JetPack_Tiles_127
+  - first:
+      213: 1889031202757115201
+    second: JetPack_Tiles_128
+  - first:
+      213: 2587686953401070816
+    second: JetPack_Tiles_129
+  - first:
+      213: 2227762265762570160
+    second: JetPack_Tiles_130
+  - first:
+      213: 8806551034957177087
+    second: JetPack_Tiles_131
+  - first:
+      213: 735894535636772149
+    second: JetPack_Tiles_132
+  - first:
+      213: -3976720814971916632
+    second: JetPack_Tiles_133
+  - first:
+      213: -522093057127597162
+    second: JetPack_Tiles_134
+  - first:
+      213: 3866626193852741931
+    second: JetPack_Tiles_135
+  - first:
+      213: 8967239930920358363
+    second: JetPack_Tiles_136
+  - first:
+      213: 6960036310044519280
+    second: JetPack_Tiles_137
+  - first:
+      213: 6809457992495588586
+    second: JetPack_Tiles_138
+  - first:
+      213: 2664784178709462366
+    second: JetPack_Tiles_139
+  - first:
+      213: 146692600742207160
+    second: JetPack_Tiles_140
+  - first:
+      213: 6130322804361301132
+    second: JetPack_Tiles_141
+  - first:
+      213: -2504781552946310766
+    second: JetPack_Tiles_142
+  - first:
+      213: 5261083841965841856
+    second: JetPack_Tiles_143
+  - first:
+      213: -6543743090783248946
+    second: JetPack_Tiles_144
+  - first:
+      213: 3576071061148695745
+    second: JetPack_Tiles_145
+  - first:
+      213: -8054152558861841127
+    second: JetPack_Tiles_146
+  - first:
+      213: 2748844116692914915
+    second: JetPack_Tiles_147
+  - first:
+      213: 7781136427502189703
+    second: JetPack_Tiles_148
+  - first:
+      213: -5811130356066181311
+    second: JetPack_Tiles_149
+  - first:
+      213: -4290419078506289992
+    second: JetPack_Tiles_150
+  - first:
+      213: 7734050922893429857
+    second: JetPack_Tiles_151
+  - first:
+      213: 2737936433526418587
+    second: JetPack_Tiles_152
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JetPack_Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c31af5ffa7089410800000000000000
+      internalID: 1483944529546056644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f12e0491d67d8ae0800000000000000
+      internalID: -1545448454614015495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46e872660bd1e650800000000000000
+      internalID: 6260525777490077258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacfbe37f871937a0800000000000000
+      internalID: -6397055890810471254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ceaacceaf3bbc90800000000000000
+      internalID: -7153053563157287812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b530180fce084b0800000000000000
+      internalID: -5440087832162772096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75bd4bb69d7c1550800000000000000
+      internalID: 6132914878912771452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72381315c5b8980800000000000000
+      internalID: -8535627164957857839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7939384dfd5fb2c20800000000000000
+      internalID: 3182907903359292311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a966e3125bd09b730800000000000000
+      internalID: 4015255614375487130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dea5d2f8a2288cb0800000000000000
+      internalID: -4861597688722510123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eba73256aef7ae0800000000000000
+      internalID: -1549262026684318173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966b25aaf30ede650800000000000000
+      internalID: 6263909220787336809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639fc46e8fc0cfd80800000000000000
+      internalID: -8215677357075400394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a046f895339f95380800000000000000
+      internalID: -8981873982872525814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e493792834a9d740800000000000000
+      internalID: 5177349807759660257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783fd0b9c29209f0800000000000000
+      internalID: -503678813358573444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e5dcb6f4f0fa980800000000000000
+      internalID: -8525578735803605347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1812444e7a9835490800000000000000
+      internalID: -7758706378847018623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b6b5ef0d95b7cf0800000000000000
+      internalID: -253510199860827387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ebc03cae50dc4a0800000000000000
+      internalID: -6571589775410807268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1a1634dbe757b0800000000000000
+      internalID: -5235456745121636675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb98abc16d28b770800000000000000
+      internalID: 8626694984280087531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c2c703626f7c630800000000000000
+      internalID: 3947394242296163351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d275c1870e1fb000800000000000000
+      internalID: 53794738142540502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47f53374c7a85d80800000000000000
+      internalID: -8261669054222829749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55ef784454b826f0800000000000000
+      internalID: -709118667224259234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c99af9a702c0d0800000000000000
+      internalID: -3404149941703424824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e180df36de1d200800000000000000
+      internalID: 203204471911095880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b160313e3888b0e0800000000000000
+      internalID: -2253901812804329039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8497869f12579a0800000000000000
+      internalID: -6236040753941231439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9145c01f9556580800000000000000
+      internalID: -8834556202188531247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae855a65d317650800000000000000
+      internalID: 6228827201980656268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306f9a1eb9dcd4c0800000000000000
+      internalID: -4261291736885665734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef28eb98a36337bc0800000000000000
+      internalID: -3786623236641488130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03a5f09b4447ac0800000000000000
+      internalID: -3858383419132464906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c457e31b435627890800000000000000
+      internalID: -7461790355613125300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d7b0f9a911dbc0800000000000000
+      internalID: -3760195996198905391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdce43e839d5a86b0800000000000000
+      internalID: -5293315523693187873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74857f87bb8afdf0800000000000000
+      internalID: -145650417434000261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69071650321d34a0800000000000000
+      internalID: -6612108679097939602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c5b70f943ff1050800000000000000
+      internalID: 5773600746205043775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd986ada28a6fcd80800000000000000
+      internalID: -8228240884690941475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d151c91e64a782590800000000000000
+      internalID: -7698769118138460899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e737099cbc72f4120800000000000000
+      internalID: 2400180882625295230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1c99aa000211cf0800000000000000
+      internalID: -283410114313338408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f410f2ad5983bab30800000000000000
+      internalID: 4299592485517066575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00e3a53db39c6d90800000000000000
+      internalID: -7103140071412080626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c27be33252707f0800000000000000
+      internalID: -646507188198101898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20ff331b0132b80800000000000000
+      internalID: -8420868524985089341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa797d25a6aa3dc30800000000000000
+      internalID: 4383034235994740650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b727f4b8525d2c0800000000000000
+      internalID: -4407575380048577672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f94d7e21094dd230800000000000000
+      internalID: 3665165941173209586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dd3ece34bd0aec0800000000000000
+      internalID: -3557602620839043706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aea7a59b42cc7c70800000000000000
+      internalID: 8970258187704315561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73d88110c2958090800000000000000
+      internalID: -8032853006719855746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c44cc325714b820800000000000000
+      internalID: 2932994899299290160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda260bf85f03f6c0800000000000000
+      internalID: -4110925160016106787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76754aa8225b74a00800000000000000
+      internalID: 740759823685277543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940a509b020d18fc0800000000000000
+      internalID: -3494282996901109687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7675a70afbcb0b9f0800000000000000
+      internalID: -454656031147272345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34850f532a3e66b60800000000000000
+      internalID: 7739123295511926851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50434b418e077b390800000000000000
+      internalID: -7802643687314017275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136fdd2ef84cc49a0800000000000000
+      internalID: -6247402460804155855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988e45cf24552d00800000000000000
+      internalID: 947255860781811864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57f298623dde53f0800000000000000
+      internalID: -910046866109696161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c6bf9a2c677e4f0800000000000000
+      internalID: -799539830387413912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ebf05ab1a4d130800000000000000
+      internalID: 3590672624515802419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02d3be4bcfa8b1a0800000000000000
+      internalID: -6793486750154763764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05f58e073a041ec0800000000000000
+      internalID: -3597238970779044596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a542270e6c2f480800000000000000
+      internalID: -8866806049049126288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff3ca857cbcb1230800000000000000
+      internalID: 3610703583314198518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69609854eee828e0800000000000000
+      internalID: -1717860593336030867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494ad23f15da2cfc0800000000000000
+      internalID: -3476025394892790636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f8fc2bd74a89d50800000000000000
+      internalID: 6744321301765132118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a3cda0999a36f0800000000000000
+      internalID: -704081545060441640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0084891094579bfb0800000000000000
+      internalID: -4631541785354024960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5167a0f38ff980b90800000000000000
+      internalID: -7275389309458680299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e8dbe625d5f17d0800000000000000
+      internalID: -2945533022650397105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f72755c5477d90800000000000000
+      internalID: -7100129573653187203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3128bf9f9cdf1b490800000000000000
+      internalID: -7732120041294167533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b97547ca4af8c60800000000000000
+      internalID: 7822652138359069493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f003ccf1262f940800000000000000
+      internalID: 5328429197841927954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d721a63d730402ec0800000000000000
+      internalID: -3593801894127332739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00307593f620aaf0800000000000000
+      internalID: -387266740327796723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015d508a58a115930800000000000000
+      internalID: 4130111494627382544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3ee327631925740800000000000000
+      internalID: 5139329787814142886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c7a4fc0c2ebca60800000000000000
+      internalID: 7695493706031987819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3fc21f5c21a3c70800000000000000
+      internalID: 8951487850716394458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7072a4229d71d210800000000000000
+      internalID: 1356003029448552570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa2e77527ad20fa0800000000000000
+      internalID: -5835861982489728352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8725350f42e4d0d40800000000000000
+      internalID: 5552179836175471224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11ab2670831e1c00800000000000000
+      internalID: 873156820215767323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32f97e83c0cc2ea0800000000000000
+      internalID: -5896125865993309636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2e4add54d85eec0800000000000000
+      internalID: -3538266601018826032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de2a386b3cac2c80800000000000000
+      internalID: -8346106638272680232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f4ca812f1d47fe0800000000000000
+      internalID: -1192097163620102275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364fac88eb3a4e630800000000000000
+      internalID: 3955466411472254051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae544c4e7f33e7a0800000000000000
+      internalID: -6349161237984289118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9562878cd7a76290800000000000000
+      internalID: -7897158855962761827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b2437b6fadf0fc0800000000000000
+      internalID: -3526359230037349559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b28485fc20f77c0800000000000000
+      internalID: -4071532448557028608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9188570251eb9b490800000000000000
+      internalID: -7729938287456581607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a553b011886577400800000000000000
+      internalID: 321821040781768026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4849ae15c2b9d8280800000000000000
+      internalID: -9039398262407523196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce20bb312327a90e0800000000000000
+      internalID: -2262370303395298580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a070f42d37188300800000000000000
+      internalID: 254478930326614184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f9df088b41a1840800000000000000
+      internalID: 5195487902795931490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0b7ddb406445660800000000000000
+      internalID: 7373595476091187408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0857ea37d4d15f0800000000000000
+      internalID: -784385600849084254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c926f4d6ed33deeb0800000000000000
+      internalID: -4689034606613142884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49d4e159c98fa460800000000000000
+      internalID: 7255169022472542538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf60affedb7d0bc0800000000000000
+      internalID: -3815257111611281485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f8b01e5ba9050f0800000000000000
+      internalID: -1130233400514605240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70f14d7202e46240800000000000000
+      internalID: 4784197204493594751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5910fb4c78c6c1e00800000000000000
+      internalID: 1016806946256126357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a11000fe58bb8c80800000000000000
+      internalID: -8319353168743886428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927cf9617969daf90800000000000000
+      internalID: -6940725875044268247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0ca1d52ff085820800000000000000
+      internalID: 2907091093086191851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030cad101fb1dfcc0800000000000000
+      internalID: -3675750998932275152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbea504bef390410800000000000000
+      internalID: 1443755435178519513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ccbaad55f8dc770800000000000000
+      internalID: 8632713659642793033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13424405daa27860800000000000000
+      internalID: 7526265759165727518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb77635460dd32e0800000000000000
+      internalID: -2144328718243890205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80e20bf75d56370800000000000000
+      internalID: 8315287031402858723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352236ccb8879b700800000000000000
+      internalID: 556608570781803091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153325fffd4a07770800000000000000
+      internalID: 8606560169873257297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de2786ffb57543b0800000000000000
+      internalID: -5528883500192157998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d77f1dedf273a10800000000000000
+      internalID: 1889031202757115201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4326fe29f49e320800000000000000
+      internalID: 2587686953401070816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf1cce3af99aee10800000000000000
+      internalID: 2227762265762570160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0a8f6d187273a70800000000000000
+      internalID: 8806551034957177087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535e7c46e2c663a00800000000000000
+      internalID: 735894535636772149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae62b40d79dfc8c0800000000000000
+      internalID: -3976720814971916632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b3636712721c8f0800000000000000
+      internalID: -522093057127597162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2930db790409a530800000000000000
+      internalID: 3866626193852741931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1d43ae439027c70800000000000000
+      internalID: 8967239930920358363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b260ce524079060800000000000000
+      internalID: 6960036310044519280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e4a357fd008e50800000000000000
+      internalID: 6809457992495588586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dfe0787173bf420800000000000000
+      internalID: 2664784178709462366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beda66a428290200800000000000000
+      internalID: 146692600742207160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c8e685c18431550800000000000000
+      internalID: 6130322804361301132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2911fa0d27a3d3dd0800000000000000
+      internalID: -2504781552946310766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddbed31ef130940800000000000000
+      internalID: 5261083841965841856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd92744454ff25a0800000000000000
+      internalID: -6543743090783248946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc725beea1c0a130800000000000000
+      internalID: 3576071061148695745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d8c32abe6e93090800000000000000
+      internalID: -8054152558861841127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2576ef82bd52620800000000000000
+      internalID: 2748844116692914915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cbe16ca562cfb60800000000000000
+      internalID: 7781136427502189703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9f27dab7ba5fa0800000000000000
+      internalID: -5811130356066181311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e218649e5574c0800000000000000
+      internalID: -4290419078506289992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c48dd665ed45b60800000000000000
+      internalID: 7734050922893429857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JetPack_Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c21f91eaa1ff520800000000000000
+      internalID: 2737936433526418587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
